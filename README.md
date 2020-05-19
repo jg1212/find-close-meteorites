@@ -9,7 +9,7 @@ install pipenv, install requests, then run:
 ```
 pip3 install pipenv
 pipenv install requests
-pipenv run python find_meteors.py
+pipenv run python meteors/find_meteors.py
 ```
 
 `python3 find_meteors.py`
